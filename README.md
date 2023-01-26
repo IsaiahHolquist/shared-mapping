@@ -1,5 +1,5 @@
 # shared-mapping
-Repo for pulling all info (mail files, holdout files, pricing, circle, etc.) for a shared mailing automatically. This script utilizes redshift and airtable so you will need to have your credentials for both set up within R in order to run the script.
+Repo for pulling all info (pricing, circ, A/B splits, etc.) for a shared mailing automatically. This code will then create/update the mapping based on this information. This repo utilizes redshift and airtable so you will need to have your credentials for both set up within R in order to run the script.
 
 ## Set-up
 
