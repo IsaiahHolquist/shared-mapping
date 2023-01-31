@@ -26,10 +26,11 @@ Open up this file in the R project for the matchback. You can run the code until
 
 Double check the outputs to make sure everything looks good and then you should be ready to run the matchback!
 
-### Common Issues
+### Common Issues/Limitations
 
 This script is still new, and as such there are some edge cases that could give the script some problems. Some common ones to look out for:
 - mailfiles might be deleted due to PII autodelete policies. Make sure that if files need to be redownloaded the filenames stay consistent as to not mess up the mappings
+- This script is only set up to handle geo PCPlus mailings. Targeted/modeled PCPlus mailings will still need to be manually mapped for the time being
 - if you notice a mapping is totally off for a client, this might be caused by an error in Airtable where a client is listed as the wrong partner (they might appear as the "correct" partner but be listed as the wrong partner in the "Combined Client List" field which will cause issues; this usually only occurs if a client is switched from one partner bumber to another within the same envelope). Will need to reach out to the shared team to get this fixed or manually fill out the map for that client
 - A/B mappings should be automated based on what is in Airtable, but sometimes the information in Airtable is incorrect and thus will be mapped wrong. If you are unsure, always confirm with the mail team member when and where any A/B splits should be included
 
