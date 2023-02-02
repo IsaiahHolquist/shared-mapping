@@ -1,7 +1,7 @@
 # shared-mapping
 Repo for pulling all info (pricing, circ, A/B splits, etc.) for a shared mailing automatically. This code will then create/update the mapping based on this information. This repo utilizes redshift and airtable so you will need to have your credentials for both set up within R in order to run the script.
 
-## Set-up
+### Set-up
 
 To set up your Airtable API key, go into Airtable and access your account page (top right corner). If there is not already an API key, create one. Once created, copy that key and open up your environment file in R:
 
@@ -12,7 +12,7 @@ And then paste in your API key after creating a new variable called "airtable_ap
 ```
 airtable_api_key = "YOUR_KEY"
 ```
-If you don't have redshift set up within R refer to this documentation for steps on gettig it set up: https://docs.google.com/document/d/1IUbxUj95HhU4YHh-k0YA7k6HZS-x4JPxyz-9fYRTluk/edit?usp=sharing
+If you don't have redshift set up within R refer to this documentation for steps on getting it set up: https://docs.google.com/document/d/1IUbxUj95HhU4YHh-k0YA7k6HZS-x4JPxyz-9fYRTluk/edit?usp=sharing
 
 ##  Dependencies
 
