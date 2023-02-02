@@ -1,0 +1,123 @@
+﻿marketID,originalMailfile,MISC,SOURCE,Envelope Short Name (from Envelopes - Synced),n,Envelopes - Synced
+AL,StaticHoldout_2023_AL.H-Alabama.csv,H-Alabama,Holdout 2023,Alabama,25675,Alabama - Huntsville/Montgomery/Mobile/etc.
+AR,StaticHoldout_2023_AR.H-Arkansas_Alt.csv,H-Arkansas_Alt,Alt Holdout 2023,Arkansas,25243,Arkansas - Little Rock/Bentonville/Fayetteville/etc.
+AR,StaticHoldout_2023_AR.H-Arkansas.csv,H-Arkansas,Holdout 2023,Arkansas,25000,Arkansas - Little Rock/Bentonville/Fayetteville/etc.
+AT,StaticHoldout_2023_AT.H-Atlanta.csv,H-Atlanta,Holdout 2023,Atlanta,25668,Atlanta
+AU,StaticHoldout_2023_AU.H-Austin.csv,H-Austin,Holdout 2023,Austin,26737,Austin
+AUR,StaticHoldout_2023_AUR.H-Aurora.csv,H-Aurora,Holdout 2023,Aurora,26063,Aurora CO
+AZ,StaticHoldout_2023_AZ.H-Gr PHX AZ.csv,H-Gr PHX AZ,Holdout 2023,Gr PHX AZ,26108,Greater Phoenix/Arizona - Mesa/Scottsdale/Glendale/etc.
+BAP,StaticHoldout_2023_BAP.H-Bay Area Pen.csv,H-Bay Area Pen,Holdout 2023,Bay Area Pen,25885,Bay Area 2 - San Mateo/Peninsula
+BAYE,StaticHoldout_2023_BAYE.H-Bay Area EBay.csv,H-Bay Area EBay,Holdout 2023,Bay Area EBay,26501,Bay Area - East Bay
+BAYN,StaticHoldout_2023_BAYN.H-Bay Area NBay.csv,H-Bay Area NBay,Holdout 2023,Bay Area NBay,25030,Bay Area - North Bay
+BK,StaticHoldout_2023_BK.H-Brooklyn.csv,H-Brooklyn,Holdout 2023,Brooklyn,23151,Brooklyn
+BM,StaticHoldout_2023_BM.H-Birmingham.csv,H-Birmingham,Holdout 2023,Birmingham,24477,Birmingham
+BO,StaticHoldout_2023_BO.H-Boston.csv,H-Boston,Holdout 2023,Boston,24069,Boston
+BT,StaticHoldout_2023_BT.H-Baltimore.csv,H-Baltimore,Holdout 2023,Baltimore,24403,Baltimore
+CB,StaticHoldout_2023_CB.H-Columbus.csv,H-Columbus,Holdout 2023,Columbus,25489,Columbus
+CH,StaticHoldout_2023_CH.H-Chicago.csv,H-Chicago,Holdout 2023,Chicago,25290,Chicago
+CHAR,StaticHoldout_2023_CHAR.H-Charleston SC.csv,H-Charleston SC,Holdout 2023,Charleston SC,13422,Charleston SC
+CIL,StaticHoldout_2023_CIL.H-Central IL.csv,H-Central IL,Holdout 2023,Central IL,25260,Central Illinois - Peoria/Champaign-Urbana/Springfield/etc.
+CL,StaticHoldout_2023_CL.H-Charlotte.csv,H-Charlotte,Holdout 2023,Charlotte,28758,Charlotte
+CLE,StaticHoldout_2023_CLE.H-Cleveland.csv,H-Cleveland,Holdout 2023,Cleveland,25454,Cleveland
+CLW,StaticHoldout_2023_CLW.H-Clearwater.csv,H-Clearwater,Holdout 2023,Clearwater,25071,Clearwater/St. Petersburg FL
+CN,StaticHoldout_2023_CN.H-Cincinnati.csv,H-Cincinnati,Holdout 2023,Cincinnati,23318,Cincinnati
+CO,StaticHoldout_2023_CO.H-Colorado.csv,H-Colorado,Holdout 2023,Colorado,25344,Colorado - Boulder/Fort Collins/Littleton/etc.
+COSP,StaticHoldout_2023_COSP.H-ColoradoSpr.csv,H-ColoradoSpr,Holdout 2023,ColoradoSpr,26130,Colorado Springs CO
+CT,StaticHoldout_2023_CT.H-Gr NYC-CT.csv,H-Gr NYC-CT,Holdout 2023,Gr NYC-CT,23076,Greater NYC - CT
+CVAL,StaticHoldout_2023_CVAL.H-Central Val.csv,H-Central Val,Holdout 2023,Central Val,25136,Central Valley CA - Bakersfield/Chico/Modesto/etc.
+DAY,StaticHoldout_2023_DAY.H-Dayton.csv,H-Dayton,Holdout 2023,Dayton,25914,Dayton OH
+DC,StaticHoldout_2023_DC.H-DC.csv,H-DC,Holdout 2023,DC,25530,DC
+DCM,StaticHoldout_2023_DCM.H-Gr DC-MD.csv,H-Gr DC-MD,Holdout 2023,Gr DC-MD,25412,Greater DC/Maryland - Silver Spring/Bethesda/etc.
+DCV,StaticHoldout_2023_DCV.H-Gr DC-VA.csv,H-Gr DC-VA,Holdout 2023,Gr DC-VA,27863,Greater DC/Virginia - Arlington/Fairfax/etc.
+DE,StaticHoldout_2023_DE.H-Delaware.csv,H-Delaware,Holdout 2023,Delaware,25075,Delaware - Wilmington/Dover/Newark/etc.
+DFW,StaticHoldout_2023_DFW.H-DallasFtW.csv,H-DallasFtW,Holdout 2023,DallasFtW,25897,Dallas - Ft. Worth
+DN,StaticHoldout_2023_DN.H-Denver.csv,H-Denver,Holdout 2023,Denver,25511,Denver
+DT,StaticHoldout_2023_DT.H-Detroit.csv,H-Detroit,Holdout 2023,Detroit,26120,Detroit
+EP,StaticHoldout_2023_EP.H-El Paso.csv,H-El Paso,Holdout 2023,El Paso,24786,El Paso
+FL,StaticHoldout_2023_FL.H-Ft Lauderdale.csv,H-Ft Lauderdale,Holdout 2023,Ft Lauderdale,25519,Fort Lauderdale
+GA,StaticHoldout_2023_GA.H-Georgia.csv,H-Georgia,Holdout 2023,Georgia,24881,Georgia - Marietta/Alpharetta/Savannah/etc.
+GAU,StaticHoldout_2023_GAU.H-Gr Austin.csv,H-Gr Austin,Holdout 2023,Gr Austin,25693,Greater Austin - Round Rock/Cedar Park/Pflugerville/etc.
+GB,StaticHoldout_2023_GB.H-Gr Boston.csv,H-Gr Boston,Holdout 2023,Gr Boston,25280,Greater Boston
+GC,StaticHoldout_2023_GC.H-Gr Chicago.csv,H-Gr Chicago,Holdout 2023,Gr Chicago,24475,Greater Chicago
+GD,StaticHoldout_2023_GD.H-Gr Dallas.csv,H-Gr Dallas,Holdout 2023,Gr Dallas,25190,Greater Dallas
+GH,StaticHoldout_2023_GH.H-Gr Houston.csv,H-Gr Houston,Holdout 2023,Gr Houston,25383,Greater Houston - Sugar Land/Pasadena/Conroe/etc.
+GID,StaticHoldout_2023_GID.H-Gr Indy.csv,H-Gr Indy,Holdout 2023,Gr Indy,25652,Greater Indianapolis
+GNJ,StaticHoldout_2023_GNJ.H-Gr NYC-NJ.csv,H-Gr NYC-NJ,Holdout 2023,Gr NYC-NJ,22776,Greater NYC - NJ
+GNYL,StaticHoldout_2023_GNYL.H-Gr NYC-LI.csv,H-Gr NYC-LI,Holdout 2023,Gr NYC-LI,11784,Greater NYC - Long Island/Hamptons
+GNYW,StaticHoldout_2023_GNYW.H-Gr NYC-Wstr.csv,H-Gr NYC-Wstr,Holdout 2023,Gr NYC-Wstr,12561,Greater NYC - Westchester
+GPH,StaticHoldout_2023_GPH.H-Gr Philly.csv,H-Gr Philly,Holdout 2023,Gr Philly,25521,Greater Philadelphia
+HO,StaticHoldout_2023_HO.H-Houston.csv,H-Houston,Holdout 2023,Houston,22805,Houston
+IA,StaticHoldout_2023_IA.H-Iowa_Alt.csv,H-Iowa_Alt,Alt Holdout 2023,Iowa,25063,Iowa - Des Moines/Cedar Rapids/Iowa City/Davenport/etc.
+IA,StaticHoldout_2023_IA.H-Iowa.csv,H-Iowa,Holdout 2023,Iowa,25000,Iowa - Des Moines/Cedar Rapids/Iowa City/Davenport/etc.
+ID,StaticHoldout_2023_ID.H-Indianapolis.csv,H-Indianapolis,Holdout 2023,Indianapolis,24816,Indianapolis
+IDA,StaticHoldout_2023_IDA.H-Idaho_Alt.csv,H-Idaho_Alt,Alt Holdout 2023,Idaho,25596,Idaho - Boise/Idaho Falls/Coeur d'Alene/etc.
+IDA,StaticHoldout_2023_IDA.H-Idaho.csv,H-Idaho,Holdout 2023,Idaho,25000,Idaho - Boise/Idaho Falls/Coeur d'Alene/etc.
+IE,StaticHoldout_2023_IE.H-Inland Empire.csv,H-Inland Empire,Holdout 2023,Inland Empire,25283,Inland Empire CA - San Bernadino/Riverside/etc.
+IN,StaticHoldout_2023_IN.H-Indiana.csv,H-Indiana,Holdout 2023,Indiana,25687,Indiana - Fort Wayne/Evansville/South Bend/etc.
+JCK,StaticHoldout_2023_JCK.H-Jacksonville.csv,H-Jacksonville,Holdout 2023,Jacksonville,25284,Jacksonville
+KY,StaticHoldout_2023_KY.H-Kentucky.csv,H-Kentucky,Holdout 2023,Kentucky,25577,Kentucky - Lexington/Fayette/Bowling Green
+LA,StaticHoldout_2023_LA.H-LA.csv,H-LA,Holdout 2023,LA,24063,LA
+LL,StaticHoldout_2023_LL.H-Louisville.csv,H-Louisville,Holdout 2023,Louisville,25393,Louisville
+LO,StaticHoldout_2023_LO.H-Louisiana.csv,H-Louisiana,Holdout 2023,Louisiana,22844,Louisiana - Baton Rouge/Lafeyette/etc.
+LV,StaticHoldout_2023_LV.H-Las Vegas.csv,H-Las Vegas,Holdout 2023,Las Vegas,24269,Las Vegas
+MAL,StaticHoldout_2023_MAL.H-Gr LA-Malibu.csv,H-Gr LA-Malibu,Holdout 2023,Gr LA-Malibu,25235,Greater LA - Malibu/Manhattan Beach/Thousand Oaks/etc.
+MEM,StaticHoldout_2023_MEM.H-Memphis.csv,H-Memphis,Holdout 2023,Memphis,25317,Memphis TN
+MH,StaticHoldout_2023_MH.H-Manhattan.csv,H-Manhattan,Holdout 2023,Manhattan,25332,Manhattan
+MI,StaticHoldout_2023_MI.H-Miami.csv,H-Miami,Holdout 2023,Miami,27134,Miami
+MICH,StaticHoldout_2023_MICH.H-Michigan.csv,H-Michigan,Holdout 2023,Michigan,25024,Michigan - Grand Rapids/Lansing/Ann Arbor/etc.
+MINN,StaticHoldout_2023_MINN.H-Minneapolis.csv,H-Minneapolis,Holdout 2023,Minneapolis,25222,Minneapolis
+MK,StaticHoldout_2023_MK.H-Missouri-KS.csv,H-Missouri-KS,Holdout 2023,Missouri-KS,25625,Missouri/Kansas - Kansas City/Overland Park/etc.
+MKE,StaticHoldout_2023_MKE.H-Milwaukee.csv,H-Milwaukee,Holdout 2023,Milwaukee,24575,Milwaukee
+MN,StaticHoldout_2023_MN.H-Minnesota.csv,H-Minnesota,Holdout 2023,Minnesota,25443,Minnesota - Eden Prairie/Minnetonka/Wayzata/etc.
+MS,StaticHoldout_2023_MS.H-Mississippi_Alt.csv,H-Mississippi_Alt,Alt Holdout 2023,Mississippi,25251,Mississippi - Jackson/Gulfport/Biloxi/etc.
+MS,StaticHoldout_2023_MS.H-Mississippi.csv,H-Mississippi,Holdout 2023,Mississippi,25000,Mississippi - Jackson/Gulfport/Biloxi/etc.
+MT,StaticHoldout_2023_MT.H-Montana.csv,H-Montana,Holdout 2023,Montana,25595,Montana - Billings/Missoula/Bozeman/etc.
+NCA,StaticHoldout_2023_NCA.H-NorthernCal.csv,H-NorthernCal,Holdout 2023,NorthernCal,25421,Northern California - Santa Rosa/Fresno/Monterey/etc.
+NCAR,StaticHoldout_2023_NCAR.H-NorthCarolina.csv,H-NorthCarolina,Holdout 2023,NorthCarolina,25538,North Carolina - Asheville/Wilmington/Winston Salem/etc.
+NEB,StaticHoldout_2023_NEB.H-Nebraska.csv,H-Nebraska,Holdout 2023,Nebraska,25212,Nebraska - Omaha/Lincoln/etc.
+NEM,StaticHoldout_2023_NEM.H-New En MENHVT.csv,H-New En MENHVT,Holdout 2023,New En MENHVT,25501,New England 2 - Maine/New Hampshire/Vermont
+NER,StaticHoldout_2023_NER.H-New En MA-RI.csv,H-New En MA-RI,Holdout 2023,New En MA-RI,25660,New England 1 - Massachusetts/Rhode Island
+NEV,StaticHoldout_2023_NEV.H-Nevada.csv,H-Nevada,Holdout 2023,Nevada,25547,Nevada - Northern Las Vegas/Reno/Henderson/etc.
+NIL,StaticHoldout_2023_NIL.H-NorthernIl.csv,H-NorthernIl,Holdout 2023,NorthernIl,25324,Northern Illinois - Rockford/Aurora/Joilet/etc.
+NJ,StaticHoldout_2023_NJ.H-New Jersey.csv,H-New Jersey,Holdout 2023,New Jersey,18373,New Jersey - Princeton/Middletown/Toms River/etc.
+NM,StaticHoldout_2023_NM.H-New Mexico.csv,H-New Mexico,Holdout 2023,New Mexico,23695,New Mexico - Albuquerque/Santa Fe/etc.
+NO,StaticHoldout_2023_NO.H-New Orleans.csv,H-New Orleans,Holdout 2023,New Orleans,25400,New Orleans
+NP,StaticHoldout_2023_NP.H-Naples.csv,H-Naples,Holdout 2023,Naples,14654,Naples/Fort Meyers/Cape Coral
+NV,StaticHoldout_2023_NV.H-Nashville.csv,H-Nashville,Holdout 2023,Nashville,23950,Nashville
+OC,StaticHoldout_2023_OC.H-Gr LA-OC.csv,H-Gr LA-OC,Holdout 2023,Gr LA-OC,25902,Greater LA/Orange County
+OK,StaticHoldout_2023_OK.H-Oklahoma City.csv,H-Oklahoma City,Holdout 2023,Oklahoma City,24870,Oklahoma City
+ORL,StaticHoldout_2023_ORL.H-Orlando.csv,H-Orlando,Holdout 2023,Orlando,23732,Orlando
+PA,StaticHoldout_2023_PA.H-Pennsylvania.csv,H-Pennsylvania,Holdout 2023,Pennsylvania,25398,Pennsylvania - Harrisburg/Erie/Scranton/etc.
+PALM,StaticHoldout_2023_PALM.H-Palm Springs.csv,H-Palm Springs,Holdout 2023,Palm Springs,25336,Palm Springs/Palm Desert
+PB,StaticHoldout_2023_PB.H-Pittsburgh.csv,H-Pittsburgh,Holdout 2023,Pittsburgh,23223,Pittsburgh
+PD,StaticHoldout_2023_PD.H-Portland.csv,H-Portland,Holdout 2023,Portland,25052,Portland
+PH,StaticHoldout_2023_PH.H-Philadelphia.csv,H-Philadelphia,Holdout 2023,Philadelphia,23130,Philadelphia
+PNW,StaticHoldout_2023_PNW.H-Pacific NW.csv,H-Pacific NW,Holdout 2023,Pacific NW,25834,Pacific Northwest
+PX,StaticHoldout_2023_PX.H-Phoenix.csv,H-Phoenix,Holdout 2023,Phoenix,25395,Phoenix
+QN,StaticHoldout_2023_QN.H-Queens.csv,H-Queens,Holdout 2023,Queens,22230,Queens
+RL,StaticHoldout_2023_RL.H-Raleigh.csv,H-Raleigh,Holdout 2023,Raleigh,24151,Raleigh - Durham - Chapel Hill
+RVA,StaticHoldout_2023_RVA.H-Richmond VA.csv,H-Richmond VA,Holdout 2023,Richmond VA,25253,Richmond VA
+SA,StaticHoldout_2023_SA.H-San Antonio.csv,H-San Antonio,Holdout 2023,San Antonio,25205,San Antonio
+SC,StaticHoldout_2023_SC.H-Sacramento.csv,H-Sacramento,Holdout 2023,Sacramento,26090,Sacramento
+SCA,StaticHoldout_2023_SCA.H-SouthernCal.csv,H-SouthernCal,Holdout 2023,SouthernCal,25565,Southern California - Santa Barbara/Santa Clarita/Carlsbad/etc.
+SCAR,StaticHoldout_2023_SCAR.H-SouthCarolina.csv,H-SouthCarolina,Holdout 2023,SouthCarolina,25502,South Carolina
+SD,StaticHoldout_2023_SD.H-San Diego.csv,H-San Diego,Holdout 2023,San Diego,24926,San Diego
+SE,StaticHoldout_2023_SE.H-Seattle.csv,H-Seattle,Holdout 2023,Seattle,26228,Seattle
+SF,StaticHoldout_2023_SF.H-SF.csv,H-SF,Holdout 2023,SF,25405,SF
+SIL,StaticHoldout_2023_SIL.H-SouthernIl.csv,H-SouthernIl,Holdout 2023,SouthernIl,25404,Southern Illinois - Carbondale/St. Louis/Metro East/Marion/etc.
+SLC,StaticHoldout_2023_SLC.H-SaltLakeCity.csv,H-SaltLakeCity,Holdout 2023,SaltLakeCity,23784,Salt Lake City
+SPTX,StaticHoldout_2023_SPTX.H-Spring TX.csv,H-Spring TX,Holdout 2023,Spring TX,25319,Spring TX
+STL,StaticHoldout_2023_STL.H-St. Louis.csv,H-St. Louis,Holdout 2023,St. Louis,24052,St. Louis
+STP,StaticHoldout_2023_STP.H-St Paul.csv,H-St Paul,Holdout 2023,St Paul,25193,St Paul MN
+SV,StaticHoldout_2023_SV.H-SiliconValley.csv,H-SiliconValley,Holdout 2023,SiliconValley,27016,Silicon Valley - San Jose/Sunnyvale/Mountain View
+TLH,StaticHoldout_2023_TLH.H-Tallahassee.csv,H-Tallahassee,Holdout 2023,Tallahassee,25598,Tallahassee/Pensacola FL
+TM,StaticHoldout_2023_TM.H-Tampa.csv,H-Tampa,Holdout 2023,Tampa,25998,Tampa
+TN,StaticHoldout_2023_TN.H-Tennessee.csv,H-Tennessee,Holdout 2023,Tennessee,26553,Tennessee - Chattanooga/Knoxville/Clarksville/etc.
+TUC,StaticHoldout_2023_TUC.H-Tucson.csv,H-Tucson,Holdout 2023,Tucson,25664,Tucson
+TX,StaticHoldout_2023_TX.H-Texas.csv,H-Texas,Holdout 2023,Texas,25498,Texas - Rockwall/Leander/Midland/etc.
+UNY,StaticHoldout_2023_UNY.H-Upstate NY.csv,H-Upstate NY,Holdout 2023,Upstate NY,23850,Upstate NY - Buffalo/Rochester/Syracuse/etc.
+UT,StaticHoldout_2023_UT.H-Utah.csv,H-Utah,Holdout 2023,Utah,25133,Utah - Provo/West Jordan/Ogden/etc.
+VA,StaticHoldout_2023_VA.H-Virginia.csv,H-Virginia,Holdout 2023,Virginia,32494,Virginia - Virginia Beach/Richmond/Norfolk/etc.
+WI,StaticHoldout_2023_WI.H-Wisconsin.csv,H-Wisconsin,Holdout 2023,Wisconsin,24323,Wisconsin - Madison/Racine/etc.
+WPB,StaticHoldout_2023_WPB.H-W Palm Beach.csv,H-W Palm Beach,Holdout 2023,W Palm Beach,25320,West Palm Beach/Boca Raton FL
+WV,StaticHoldout_2023_WV.H-W Virginia.csv,H-W Virginia,Holdout 2023,W Virginia,25573,West Virginia - Charleston/Huntington/Morgantown/etc.

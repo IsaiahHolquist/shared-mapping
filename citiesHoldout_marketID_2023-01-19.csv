@@ -1,0 +1,102 @@
+Name,marketID,Listcode
+Manhattan,MH,H-Manhattan
+Greater Houston - Sugar Land/Pasadena/Conroe/etc.,GH,H-Greater Houston
+Nebraska - Omaha/Lincoln/etc.,NEB,H-Nebraska
+New Orleans,NO,H-New Orleans
+Atlanta,AT,H-Atlanta
+Greater DC/Virginia - Arlington/Fairfax/etc.,DCV,H-Gr DC VA
+Colorado - Boulder/Fort Collins/Littleton/etc.,CO,H-Colorado
+Fort Lauderdale,FL,H-Fort Lauderdale
+Illinois,IL,H-Illinois
+Alaska,AK,H-Alaska
+Greater DC/Maryland - Silver Spring/Bethesda/etc.,DCM,H-Gr DC MD
+New Mexico - Albuquerque/Santa Fe/etc.,NM,H-New Mexico
+Texas - Rockwall/Leander/Midland/etc.,TX,H-Texas
+Greater LA/Orange County,OC,H-Gr LA OC
+SF,SF,H-SF
+Georgia - Marietta/Alpharetta/Savannah/etc.,GA,H-Georgia
+Louisville,LL,H-Louisville
+Greater Chicago,GC,H-Gr Chicago
+Houston,HO,H-Houston
+Inland Empire CA - San Bernadino/Riverside/etc.,IE,H-Inland Empire
+Tampa,TM,H-Tampa
+San Antonio,SA,H-San Antonio
+Minnesota - Eden Prairie/Minnetonka/Wayzata/etc.,MN,H-Minnesota
+Tulsa OK,TUL,H-Tulsa
+New England 2 - Maine/New Hampshire/Vermont,NEM,H-New En MENHVT
+Upstate NY - Buffalo/Rochester/Syracuse/etc.,UNY,H-Upstate NY
+Aurora CO,AUR,H-Aurora
+Kentucky - Lexington/Fayette/Bowling Green,KY,H-Kentucky
+Boston,BO,H-Boston
+Salt Lake City,SLC,H-Salt Lake City
+Silicon Valley - San Jose/Sunnyvale/Mountain View,SV,H-Silicon Valley
+Alabama - Huntsville/Montgomery/Mobile/etc.,AL,H-Alabama
+Greater NYC - Westchester,GNYW,H-Gr NYC WC
+Phoenix,PX,H-Phoenix
+Pittsburgh,PB,H-Pittsburgh
+Queens,QN,H-Queens
+Seattle,SE,H-Seattle
+Pacific Northwest,PNW,H-Pacific Northwest
+Charlotte,CL,H-Charlotte
+Spring TX,SPTX,H-Spring TX
+Omaha,OM,H-Omaha
+Greater Dallas,GD,H-Gr Dallas
+Southern California - Santa Barbara/Santa Clarita/Carlsbad/etc.,SCA,H-Southern Californi
+Portland,PD,H-Portland
+Raleigh - Durham - Chapel Hill,RL,H-Raleigh
+Chicago,CH,H-Chicago
+New England 1 - Massachusetts/Rhode Island,NER,H-New En MA-RI
+Austin,AU,H-Austin
+Detroit,DT,H-Detroit
+Colorado Springs CO,COSP,H-ColoradoSpr
+Las Vegas,LV,H-Las Vegas
+San Diego,SD,H-San Diego
+DC,DC,H-DC
+Missouri/Kansas - Kansas City/Overland Park/etc.,MK,H-Missouri Kansas
+St. Louis,STL,H-St Louis
+Milwaukee,MKE,H-Milwaukee
+Nevada - Northern Las Vegas/Reno/Henderson/etc.,NEV,H-Nevada
+Tucson,TUC,H-Tucson
+Greater NYC - NJ,GNJ,H-Gr NYC NJ
+Bay Area 1 - East Bay/North Bay,BAE,H-Gr SF 1 East Bay
+St Paul MN,STP,H-St Paul
+Nashville,NV,H-Nashville
+Greater Phoenix/Arizona - Mesa/Scottsdale/Glendale/etc.,AZ,H-Gr PHX AZ
+Naples/Fort Meyers/Cape Coral,NP,H-Naples
+Naples,NP,H-Naples
+Indianapolis,ID,H-Indianapolis
+Louisiana - Baton Rouge/Lafeyette/etc.,LO,H-Louisiana
+Northern California - Santa Rosa/Fresno/Monterey/etc.,NCA,H-Northern Californi
+Tennessee - Chattanooga/Knoxville/Clarksville/etc.,TN,H-Tennessee
+LA,LA,H-LA
+West Palm Beach/Boca Raton FL,WPB,H-West Palm Beach
+Columbus,CB,H-Columbus
+Birmingham,BM,H-Birmingham
+Brooklyn,BK,H-Brooklyn
+El Paso,EP,H-El Paso
+Greater NYC - CT,CT,H-Gr NYC Connecticut
+Utah - Provo/West Jordan/Ogden/etc.,UT,H-Utah
+South Carolina,SCAR,H-South Carolina
+Cincinnati,CN,H-Cincinnati
+Dallas - Ft. Worth,DFW,H-Dallas
+Orlando,ORL,H-Orlando
+New Jersey - Princeton/Middletown/Toms River/etc.,NJ,H-New Jersey
+Greater NYC - Long Island/Hamptons,GNYL,H-Gr NYC LI
+Oklahoma City,OK,H-Oklahoma City
+Denver,DN,H-Denver
+Greater LA - Malibu/Manhattan Beach/Thousand Oaks/etc.,MAL,H-Gr LA Malibu
+Miami,MI,H-Miami
+Dayton OH,DAY,H-Dayton
+Virginia - Virginia Beach/Richmond/Norfolk/etc.,VA,H-Virginia
+Greater Austin - Round Rock/Cedar Park/Pflugerville/etc.,GAU,H-Greater Austin
+Cleveland,CLE,H-Cleveland
+North Carolina - Asheville/Wilmington/Winston Salem/etc.,NCAR,H-North Carolina
+Wisconsin - Madison/Racine/etc.,WI,H-Wisconsin
+Minneapolis,MINN,H-Minneapolis
+Jacksonville,JCK,H-Jacksonville
+Greater Boston,GB,H-Gr Boston
+Bay Area 2 - San Mateo/Peninsula,BAP,H-Gr SF 2 San Mateo
+Sacramento,SC,H-Sacramento
+Philadelphia,PH,H-Philadelphia
+Baltimore,BT,H-Baltimore
+Memphis TN,MEM,H-Memphis
