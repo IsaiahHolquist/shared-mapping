@@ -1,5 +1,5 @@
 # shared-mapping
-Repo for pulling all info (pricing, circ, A/B splits, etc.) for a shared mailing automatically. This code will then create/update the mapping based on this information. This repo utilizes redshift and airtable so you will need to have your credentials for both set up within R in order to run the script.
+THIS REPO IS STILL IN BETA. PLEASE USE CAUTION WHEN RUNNING THESE SCRIPTS AND MAKE NOTE OF ANY ERROR/ISSUES YOU RUN INTO WHILE USING. This script is for pulling all info (pricing, circ, A/B splits, etc.) for a shared mailing automatically. This code will then create/update the mapping based on this information. This repo utilizes redshift and airtable so you will need to have your credentials for both set up within R in order to run the script.
 
 ### Set-up
 
